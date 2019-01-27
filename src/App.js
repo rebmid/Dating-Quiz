@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import couple from './couple.jpg';
 
 class App extends React.Component {
     constructor(props) {
@@ -131,7 +132,7 @@ class QuizDescription extends React.Component {
         return (
             <section className="overviewSection">
                 <div className="imageWrapper">
-                    <img src={image.filePath} alt={image.altText} />
+                    <img src={couple} className="App-couple" alt="couple" />
                 </div>
                 <div className="description" dangerouslySetInnerHTML={htmlDescription()} />
                 <button onClick={this.props.showQuizQuestion}>Begin</button>
