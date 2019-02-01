@@ -213,7 +213,7 @@ button {
         margin: 10px auto;
         text-align: center;
         font-size: 3em;
-        color: white;
+        color: transparent;
         text-shadow: 0 0 5px black;
         border: 14px solid #205;
         border-radius: 100%;
