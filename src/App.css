@@ -76,7 +76,7 @@ section {
     animation-duration: 1s;
     animation-fill-mode: both;
     animation-name: delayFadeOutUp;
-    max-width: 380px;
+    max-width: 330px;
 }
 
 .quizSection .questionNumber {
@@ -87,7 +87,7 @@ section {
 }
 
 @media all {
-    max-width: 380px;
+    max-width: 350px;
 }
 .quizSection .question {
     font-weight: bold;
