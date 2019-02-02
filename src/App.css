@@ -43,7 +43,7 @@
 
 section {
     margin: 20px auto;
-    width: 600px;
+    width: 500px;
 }
 
 .overviewSection {
@@ -93,9 +93,9 @@ section {
 }
 
 .quizSection .answers p {
-    -webkit-perspective: 800px;
-    -moz-perspective: 800px;
-    perspective: 800px;
+    -webkit-perspective: 700px;
+    -moz-perspective: 700px;
+    perspective: 700px;
     display: inline-block;
     margin: 0 10px;
 }
