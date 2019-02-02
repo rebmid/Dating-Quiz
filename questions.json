@@ -1,27 +1,109 @@
-[{"type":"TRUE_FALSE","level":1,"question":"You just met a new guy. He is attractive and has all the qualities you are looking for. <br> You are at the point where you will be having your first date. <br> <br>Which option would you prefer? <br><br>OPTION A: He is excited & asks you to meet him tomorrow. He quickly sets time and place. <br><br>OPTION B: He says he is pretty busy but would eventually like to meet you for a date. Suggests the following week.",
-  "answers":["Option A","Option B"],"correct":2,"explanation":"Dirty guys usually always want to rush you or are last minute. Wait and watch him"},
+[
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "You just met a new guy. He is attractive and has all the qualities you are looking for. <br> You are at the point where you will be having your first date. <br> <br>Which option would you prefer? <br><br>OPTION A: He is excited & asks you to meet him tomorrow. He quickly sets time and place. <br><br>OPTION B: He says he is pretty busy but would eventually like to meet you for a date. Suggests the following week.",
+    "answers": ["Option A", "Option B"],
+    "correct": 2,
+    "explanation": "Dirty guys usually always want to rush you or are last minute. Wait and watch him"
+  },
 
-  {"type":"TRUE_FALSE","level":1,"question":"As soon as you get his phone number you do a search on Social Media, LinkedIn, Spokeo and see if what he has told you so far is correct. <br> You also check to see what additional information is available that you can find about your potential date?",
-    "answers":["Yes - always","No - thats creepy"],"correct":1,"explanation":"If you have not you should be doing this for every single date. You can see family, location, work, and get a good idea if your potential date is still married or what he is all about. Does his address history show women living with him? Does he work where he says? Does he have a criminal record? Do not reveal that you are searching, just incorporate this into your routine. Quietly do your homework. We research potential employers so why would we not do the same to a potential person we are giving our heart too? This could save your life if he is dangerous. "},
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "As soon as you get his phone number you do a search on Social Media, LinkedIn, Spokeo and see if what he has told you so far is correct. <br> You also check to see what additional information is available that you can find about your potential date?",
+    "answers": ["Yes - always", "No - thats creepy"],
+    "correct": 1,
+    "explanation": "If you have not you should be doing this for every single date. You can see family, location, work, and get a good idea if your potential date is still married or what he is all about. Does his address history show women living with him? Does he work where he says? Does he have a criminal record? Do not reveal that you are searching, just incorporate this into your routine. Quietly do your homework. We research potential employers so why would we not do the same to a potential person we are giving our heart too? This could save your life if he is dangerous. "
+  },
 
-    {"type":"TRUE_FALSE","level":3,"question":"Is his Social Media non-existent or very private? <br> <br> Does that come across as a red flag?",
-      "answers":["Yes","No"],"correct":1,"explanation":"I would definitely flag this and be very cautious. He could be one of the few that is extremely private. He could be a complete fraud. He could be involved with a woman or multiple women and they never allow any of them to see his Social Media. This is not always the case but flag it and watch his behavior very closely. Try to find out more about him as soon as possible!! "},
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "Is his Social Media non-existent or very private? <br> <br> Does that come across as a red flag?",
+    "answers": ["Yes", "No"],
+    "correct": 1,
+    "explanation": "I would definitely flag this and be very cautious. He could be one of the few that is extremely private. He could be a complete fraud. He could be involved with a woman or multiple women and they never allow any of them to see his Social Media. This is not always the case but flag it and watch his behavior very closely. Try to find out more about him as soon as possible!! "
+  },
 
-      {"type":"TRUE_FALSE","level":3,"question":"He is excited to see you again but day after day after week he does not initiate a day or time. <br>You finally ask him what works and he says maybe this day or does not even suggest a day at all. <br> Do you continue to talk to him while you wait?",
-        "answers":["Wait?","Move on"],"correct":2,"explanation":"I would lose interest and move on. Dont let his charm or good looks fool you. I bet you this guy is still involved with someone else or just not that into you. You will probably constantly have to chase him and his interest will completly fizzle out when he is done with you. If you stick around"},   
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "He is excited to see you again but day after day after week he does not initiate a day or time. <br>You finally ask him what works and he says maybe this day or does not even suggest a day at all. <br> Do you continue to talk to him while you wait?",
+    "answers": ["Wait?", "Move on"],
+    "correct": 2,
+    "explanation": "I would lose interest and move on. Dont let his charm or good looks fool you. I bet you this guy is still involved with someone else or just not that into you. You will probably constantly have to chase him and his interest will completly fizzle out when he is done with you. If you stick around"
+  },
 
-  {"type":"TRUE_FALSE","level":1,"question":"Your first date went really well. He was so interested in you and asked lots of questions. <br> You excitedly text your friend from the bathroom mid-date telling her how much you are into him <br> Your friend asks what you know about him? <br> Do you have a set of questions you ask men on a date?","answers":["Yes","No, I go with the flow"],"correct":1,"explanation":"Your going to go with the flow right into Dirty Johns arms. Get some questions and learn as much about him as you can"},
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "Your first date went really well. He was so interested in you and asked lots of questions. <br> You excitedly text your friend from the bathroom mid-date telling her how much you are into him <br> Your friend asks what you know about him? <br> Do you have a set of questions you ask men on a date?",
+    "answers": ["Yes", "No, I go with the flow"],
+    "correct": 1,
+    "explanation": "Your going to go with the flow right into Dirty Johns arms. Get some questions and learn as much about him as you can"
+  },
 
-    {"type":"TRUE_FALSE","level":3,"question":"Your date went really well. You are at that moment that you say good-bye to eachother for the evening <br> Option A - He says he does not want the night to end yet and invites you to his place or himself to your place<br> Option B - He ends the night wiht a hug and says he would like to see you again","answers":["Option A","Option B"],"correct":2,"explanation":"Dirty Johns want to rush so he will be trying to get you to have sex with him as soon as his charming self can. Wait and watch. If he does try to extend the date and get you over to his place or yours watch his reaction when you say no. Hopefully you said no 😊"},
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "Your date went really well. You are at that moment that you say good-bye to eachother for the evening <br> Option A - He says he does not want the night to end yet and invites you to his place or himself to your place<br> Option B - He ends the night wiht a hug and says he would like to see you again",
+    "answers": ["Option A", "Option B"],
+    "correct": 2,
+    "explanation": "Dirty Johns want to rush so he will be trying to get you to have sex with him as soon as his charming self can. Wait and watch. If he does try to extend the date and get you over to his place or yours watch his reaction when you say no. Hopefully you said no 😊"
+  },
 
-    {"type":"TRUE_FALSE","level":1,"question":"Your date acts like it’s a joke but you notice he puts you down subtly. <br>Sarcastic comments about your intelligence, weight, looks, hair, clothing. <br>Do you continue to date him? ","answers":["No","Yes"],"correct":1,"explanation":"That kind of behavior is disrespectful, not healthy, and usually continues as he tests what you will tolerate and his treatment will worsen. Move on"},
-    
-    {"type":"TRUE_FALSE","level":1,"question":"You say no to your date. No, you don’t want to meet him somewhere. No, you don’t want to get physical. The timing does not work for a date. Whatever the reason he gets upset that you have told him no","answers":["Continue to date","move on"],"correct":2,"explanation":"That’s the first sign of a Dirty John. <br>Anger. Please move on.<br> If he gets upset over not getting his way it will get much worse. Run"},
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "Your date acts like it’s a joke but you notice he puts you down subtly. <br>Sarcastic comments about your intelligence, weight, looks, hair, clothing. <br>Do you continue to date him? ",
+    "answers": ["No", "Yes"],
+    "correct": 1,
+    "explanation": "That kind of behavior is disrespectful, not healthy, and usually continues as he tests what you will tolerate and his treatment will worsen. Move on"
+  },
 
-   {"type":"TRUE_FALSE","level":1,"question":"Your date is putting everyone down around you. The wait staff, the valet, your friends, family. <br> Do you continue to date him?","answers":["Yes","No"],"correct":2,"explanation":"Move on. That’s a sign he is low value, disrespectful, and dangerous. He has a heightened sense of self-worth aka narcissist and pretty soon you will be on the receiving end of his bad treatment."},
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "You say no to your date. No, you don’t want to meet him somewhere. No, you don’t want to get physical. The timing does not work for a date. Whatever the reason he gets upset that you have told him no",
+    "answers": ["Continue to date", "move on"],
+    "correct": 2,
+    "explanation": "That’s the first sign of a Dirty John. <br>Anger. Please move on.<br> If he gets upset over not getting his way it will get much worse. Run"
+  },
 
-  {"type":"TRUE_FALSE","level":3,"question":"His explanation for being single is. His ex is crazy!","answers":["Continue to date","Move on"],"correct":2,"explanation":" This is a run for me. I know there are some crazy women but if this guy is telling you immediately how bad or crazy or something negative about his exes. Watch closely. There is a reason he picks crazy women, or the women is crazy (perhaps his doing)."},
+  {
+    "type": "TRUE_FALSE",
+    "level": 1,
+    "question": "Your date is putting everyone down around you. The wait staff, the valet, your friends, family. <br> Do you continue to date him?",
+    "answers": ["Yes", "No"],
+    "correct": 2,
+    "explanation": "Move on. That’s a sign he is low value, disrespectful, and dangerous. He has a heightened sense of self-worth aka narcissist and pretty soon you will be on the receiving end of his bad treatment."
+  },
 
-  {"type":"TRUE_FALSE","level":3,"question":"Your date lies. <br> Do you continue to date him. ","answers":["Yes","No"],"correct":2,"explanation":"He cannot be trusted. Please run as fast as you can. He will continue to lie"},
-  
-  {"type":"TRUE_FALSE","level":3,"question":"Your date wants to meet you halfway for the date. <br> Do you go on that date?","answers":["Yes","No"],"correct":2,"explanation":"I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember protect and provide. Any date I met at his convenience was a tool"}]
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "His explanation for being single is. His ex is crazy!",
+    "answers": ["Continue to date", "Move on"],
+    "correct": 2,
+    "explanation": " This is a run for me. I know there are some crazy women but if this guy is telling you immediately how bad or crazy or something negative about his exes. Watch closely. There is a reason he picks crazy women, or the women is crazy (perhaps his doing)."
+  },
+
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "Your date lies. <br> Do you continue to date him. ",
+    "answers": ["Yes", "No"],
+    "correct": 2,
+    "explanation": "He cannot be trusted. Please run as fast as you can. He will continue to lie"
+  },
+
+  {
+    "type": "TRUE_FALSE",
+    "level": 3,
+    "question": "Your date wants to meet you halfway for the date. <br> Do you go on that date?",
+    "answers": ["Yes", "No"],
+    "correct": 2,
+    "explanation": "I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember protect and provide. Any date I met at his convenience was a tool"
+  }
+]
