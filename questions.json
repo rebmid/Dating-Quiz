@@ -41,13 +41,13 @@
     "question": "Your first date went really well. He was so interested in you and asked lots of questions. <br> You excitedly text your friend from the bathroom mid-date telling her how much you are into him <br> Your friend asks what you know about him? <br> Do you have a set of questions you ask men on a date?",
     "answers": ["Yes", "No, I go with the flow"],
     "correct": 1,
-    "explanation": "Your going to go with the flow right into Dirty Johns arms. Get some questions and learn as much about him as you can"
+    "explanation": "Your going to go with the flow right into Dirty Johns arms. Get some questions and learn as much about your date as you can"
   },
 
   {
     "type": "TRUE_FALSE",
     "level": 3,
-    "question": "Your date went really well. You are at that moment that you say good-bye to eachother for the evening <br> Option A - He says he does not want the night to end yet and invites you to his place or himself to your place<br> Option B - He ends the night wiht a hug and says he would like to see you again",
+    "question": "Your date went really well. You are at that moment that you say good-bye to eachother for the evening <br> Option A - He says he does not want the night to end yet and invites you to his place or himself to your place<br> Option B - He ends the night with a hug and says he would like to see you again",
     "answers": ["Option A", "Option B"],
     "correct": 2,
     "explanation": "Dirty Johns want to rush so he will be trying to get you to have sex with him as soon as his charming self can. Wait and watch. If he does try to extend the date and get you over to his place or yours watch his reaction when you say no. Hopefully you said no 😊"
@@ -65,10 +65,10 @@
   {
     "type": "TRUE_FALSE",
     "level": 1,
-    "question": "You say no to your date. No, you don’t want to meet him somewhere. No, you don’t want to get physical. The timing does not work for a date. Whatever the reason he gets upset that you have told him no",
-    "answers": ["Continue to date", "move on"],
+    "question": "You say no to your date. No, you don’t want to meet him somewhere. No, you don’t want to get physical. The timing does not work for a date. <br>Whatever the reason he gets upset that you have told him no",
+    "answers": ["Continue to date", "Move on"],
     "correct": 2,
-    "explanation": "That’s the first sign of a Dirty John. <br>Anger. Please move on.<br> If he gets upset over not getting his way it will get much worse. Run"
+    "explanation": "That’s the first sign of a Dirty John. <br>Anger. Please move on.<br> If he gets upset over not getting his way over something trivial and its still a new relationship. It will get much worse. Run"
   },
 
   {
@@ -92,7 +92,7 @@
   {
     "type": "TRUE_FALSE",
     "level": 3,
-    "question": "Your date lies. <br> Do you continue to date him. ",
+    "question": "Your date lies. <br> Do you continue to date him? ",
     "answers": ["Yes", "No"],
     "correct": 2,
     "explanation": "He cannot be trusted. Please run as fast as you can. He will continue to lie"
@@ -104,6 +104,6 @@
     "question": "Your date wants to meet you halfway for the date. <br> Do you go on that date?",
     "answers": ["Yes", "No"],
     "correct": 2,
-    "explanation": "I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember protect and provide. Any date I met at his convenience was a tool"
+    "explanation": "I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember normal men naturally want to protect and provide for people they care about. Any date I met at the mans convenience was a loser. Run"
   }
 ]
