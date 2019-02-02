@@ -5,15 +5,15 @@
 
 .App-logo {
     animation: App-logo-spin infinite 20s linear;
-    height: 80px;
+    height: 90px;
 }
 
 .App-header {
     background-color: #222;
-    height: 150px;
+    height: 200px;
     padding: 20px;
-    color: white;
-    max-width: 600;
+    color: red;
+    max-width: 100%;
 }
 
 .App-intro {
@@ -53,14 +53,14 @@ section {
     margin: 20px auto;
     padding: 10px;
     text-align: center;
-    width: 500px;
+    width: 400px;
 }
     .overviewSection > * {
         margin: 10px;
     }
 
     .overviewSection img {
-        width: 100%;
+        width: 400px;
     }
 
     .overviewSection .description {
@@ -85,16 +85,18 @@ section {
     font-size: 16px;
     line-height: .5em;
 }
+@media screen and (min-width: 380px) {
 
-@media all {
-    max-width: 350px;
-}
+        }
+  
+
 .quizSection .question {
     font-weight: bold;
     font-size: 20px;
     margin: 10px auto 20px;
     text-align: justify;
     line-height: 1.4em;
+    width: 320px;
 
 }
 
