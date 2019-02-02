@@ -24,4 +24,4 @@
 
   {"type":"TRUE_FALSE","level":3,"question":"Your date lies. <br> Do you continue to date him. ","answers":["Yes","No"],"correct":2,"explanation":"He cannot be trusted. Please run as fast as you can. He will continue to lie"},
   
-  {"type":"TRUE_FALSE","level":1,"question":"Your date wants to meet you halfway","answers":["Yes","No"],"correct":2,"explanation":"I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember protect and provide. Any date I met at his convenience was a tool"}]
+  {"type":"TRUE_FALSE","level":3,"question":"Your date wants to meet you halfway for the date. <br> Do you go on that date?","answers":["Yes","No"],"correct":2,"explanation":"I wouldn’t. You are probably his third choice. Let him show interest and meet you somewhere that is convenient to you. Remember protect and provide. Any date I met at his convenience was a tool"}]
