@@ -76,6 +76,7 @@ section {
     animation-duration: 1s;
     animation-fill-mode: both;
     animation-name: delayFadeOutUp;
+    max-width: 480px;
 }
 
 .quizSection .questionNumber {
@@ -85,19 +86,22 @@ section {
     line-height: .5em;
 }
 
+@media all {
+    max-width: 480px;
+}
 .quizSection .question {
     font-weight: bold;
     font-size: 20px;
     margin: 10px auto 20px;
     text-align: justify;
     line-height: 1.4em;
-    max-width: 500;
+
 }
 
 .quizSection .answers p {
-    -webkit-perspective: 680;
-    -moz-perspective: 680;
-    perspective: 680;
+    -webkit-perspective: 400px;
+    -moz-perspective: 400px;
+    perspective: 400px;
     display: inline-block;
     margin: 0 10px;
 }
